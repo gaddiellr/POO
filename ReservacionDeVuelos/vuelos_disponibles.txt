@@ -1,0 +1,10 @@
+B55440 Beijing China 11:00 08/12/21
+5
+PP1256 Brasilia Brasil 8:00 07/12/21
+4
+CF3298 Ottawa Canada 20:00 11/12/21
+1
+A78951 Doha Catar 15:00 10/12/21
+8
+CC8524 Santiago Chile 16:00 13/12/21
+3
